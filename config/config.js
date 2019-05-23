@@ -62,9 +62,9 @@ export default {
           component: './Welcome',
         },
         {
-          path: '/test1',
-          name: 'test1',
-          component: './Test1'
+          path: '/counter',
+          name: 'counter',
+          component: './ControlPanel'
         }
       ],
     },
